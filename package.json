@@ -1,0 +1,25 @@
+{
+  "name": "tutogulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmloray/tutogulp.git"
+  },
+  "author": "lorayzm <zm.loray@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmloray/tutogulp/issues"
+  },
+  "homepage": "https://github.com/zmloray/tutogulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-data": "^1.2.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.1.0"
+  }
+}
