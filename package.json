@@ -1,0 +1,17 @@
+{
+  "name": "tutogulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmloray/tutogulp.git"
+  },
+  "author": "lorayzm <zm.loray@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmloray/tutogulp/issues"
+  },
+  "homepage": "https://github.com/zmloray/tutogulp#readme"
+}
